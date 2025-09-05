@@ -1,1 +1,2 @@
-# Car_Price_Prediction_Machine_Learning_Project_
+# Car_Price_Prediction_Machine_Learning_Project
+Amazing my new model which predict car price based on model,purchasing year kms driven etc. This model predict price with goog accuracy and also perform very well. All steps are already done like Data Cleaning, Data preprocessing, Exploratory Data Analysis and Feature Engineering. You can only install some library and run the model like Numpy, Pandas, Seaborn, Matplotlib and Sciket-learn. In future, this will upload in web application.
